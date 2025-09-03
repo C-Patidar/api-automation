@@ -67,6 +67,12 @@ public class payload {
 
 	}
 
+	public static String Addbook(String isbn, String aisle){
+
+
+		return "pass" ;
+	}
+
 
 
 
